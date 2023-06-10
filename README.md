@@ -5,7 +5,7 @@ Web Developer
 -------------
 * ✉️  You can contact me at rikmahapatra@gmail.com 
 * 🚀  I'm currently working on [Nasa Space Launch System](http://github.com/W41K3R0/NasaLaunchSystem)
-* 🧠  I'm learning Design and Analysis of Algorithms
+* 🧠  I'm learning ThreeJs from [here](https://threejs-journey.com/)
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
