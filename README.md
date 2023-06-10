@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [rikmahapatra@gmail.com main](mailto:rikmahapatra@gmail.com main)
+* ✉️  You can contact me at rikmahapatra@gmail.com 
 * 🧠  I'm learning Design and Analysis of Algorithms
 * 🤝  I'm open to collaborating on projects
 
