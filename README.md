@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rik
+Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rik
 =====================================================================================================================================
 
 Web Developer
@@ -8,7 +8,7 @@ Web Developer
 * 🧠  I'm learning ThreeJs from [here](https://threejs-journey.com/)
 * 🤝  I'm open to collaborating on projects
 
-### Skills
+#### Skills
 
 
 <p align="left">
