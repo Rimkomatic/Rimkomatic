@@ -35,17 +35,17 @@ Web Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/W41K3R0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Rimkomatic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <span>
-<a href="http://www.github.com/W41K3R0"><img src="https://github-readme-stats.vercel.app/api?username=W41K3R0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="W41K3R0's GitHub stats" /></a>
+<a href="http://www.github.com/Rimkomatic"><img src="https://github-readme-stats.vercel.app/api?username=Rimkomatic&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="W41K3R0's GitHub stats" /></a>
 </span>
 
 <span>
-<a href="http://www.github.com/W41K3R0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=W41K3R0&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Rimkomatic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimkomatic&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </span>
   
 
