@@ -1,5 +1,15 @@
 
 # 💫 About Me:
+I am a versatile MERN developer . My technical expertise extends to the LAMP stack, Data Science, Machine Learning, Natural Language Processing, and UI/UX design using Adobe XD.
+
+Need a back-end dev? I’ve got certifications from IBM. Want a dynamic UI? Google’s got my back on that one. And if you think AI is the future, well, I've got that covered too, thanks to the University of Helsinki.
+
+Among my projects, you will find a web search engine developed using PHP and a full-stack dashboard application built with the MERN stack. These projects showcase my ability to create functional and dynamic web applications.
+
+Feel free to explore my work on GitHub and connect with me on LinkedIn. I am always open to discussing new opportunities and collaborations in the tech world.
+
+<br>
+
 🔭 I’m currently working on : My portfolio website<br>🌱 I’m currently learning : Advanced ML and WebFlow<br>💬 Ask me about: basically anything you'd like <br>⚡ Fun fact: I know how to center a div !
 
 
